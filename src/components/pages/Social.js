@@ -18,7 +18,7 @@ function Resume() {
                 <hr className="my-4"></hr>
                 <h5 className='card-title'>Eggheads Beware</h5>
 
-                <a href="egghead.pdf" download="egghead"
+                <a href="egghead.pdf" download="egghead" id="egghead"
                     className="btn btn-danger">Do Not Click This Button</a>
             </div>
         </div>
