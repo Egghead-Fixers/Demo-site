@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Demo-site/static/js/main.c5e592f4.js",
+    "main.js": "/Demo-site/static/js/main.f171a4f9.js",
     "static/media/robot.png": "/Demo-site/static/media/robot.6f032257a399fa016bb6.png",
     "static/media/Egghead.jpg": "/Demo-site/static/media/Egghead.1245da1b37d9904d5f2f.jpg",
     "index.html": "/Demo-site/index.html",
-    "main.c5e592f4.js.map": "/Demo-site/static/js/main.c5e592f4.js.map"
+    "main.f171a4f9.js.map": "/Demo-site/static/js/main.f171a4f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.c5e592f4.js"
+    "static/js/main.f171a4f9.js"
   ]
 }
