@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Egghead/static/js/main.271c9416.js",
-    "static/media/robot.png": "/Egghead/static/media/robot.6f032257a399fa016bb6.png",
-    "static/media/Egghead.jpg": "/Egghead/static/media/Egghead.1245da1b37d9904d5f2f.jpg",
-    "index.html": "/Egghead/index.html",
-    "main.271c9416.js.map": "/Egghead/static/js/main.271c9416.js.map"
+    "main.js": "/Demo-site/static/js/main.c5e592f4.js",
+    "static/media/robot.png": "/Demo-site/static/media/robot.6f032257a399fa016bb6.png",
+    "static/media/Egghead.jpg": "/Demo-site/static/media/Egghead.1245da1b37d9904d5f2f.jpg",
+    "index.html": "/Demo-site/index.html",
+    "main.c5e592f4.js.map": "/Demo-site/static/js/main.c5e592f4.js.map"
   },
   "entrypoints": [
-    "static/js/main.271c9416.js"
+    "static/js/main.c5e592f4.js"
   ]
 }
