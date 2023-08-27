@@ -2,7 +2,6 @@
   "name": "liz-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://egghead-fixers.github.io/Demo-site/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -20,10 +19,6 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Egghead-Fixers/Demo-site.git"
   },
   "eslintConfig": {
     "extends": [
